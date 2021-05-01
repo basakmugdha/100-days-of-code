@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log - Round 1 - [Mugdha Basak]
+# 100 Days Of Code - Log - Round 1 {discontinued} - [Mugdha Basak]
 
 The log of my #100DaysOfCode challenge. Started on [April 3rd, Saturday, 2021].
 
@@ -56,8 +56,10 @@ Today was a distracted day. Slow progress.
 **Link to work** [Git link to my Python Workout Codes]
 
 
-*Missed two days in between*
+*Missed a week in between*
 *Haven't been committing to GitHub regularly uptil now*
 
-## Day 6 : April 11
+## Day 6-9 : April 15 - more guilty breaks - April 24
+Completed the Python Workout Book! That was a lot of questions! 
 
+# missed a lot many days to call it a streak now. 
